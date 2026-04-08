@@ -148,7 +148,7 @@ Di era modern, terjadi pergeseran fundamental dalam cara kita mengonsumsi inform
 
 **Risk:** Hoaks Pemilu dapat mempengaruhi opini publik dan hasil election.
 
-**Source:** Presentasi "Media Sosial dan Hoaks" — Haris Firdaus & Ibu Guru Adelia Pramono
+**Source:** Presentasi "Media Sosial dan Hoaks"
 
 ---
 

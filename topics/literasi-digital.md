@@ -76,6 +76,24 @@ claims:
       - source: "Literasi_Digital_di_Era_AI.pdf"
         section: "Slide 8 - Fighting Hoaxes"
         quote: "LAWAN HOAKS: Baca berita hanya dari sumber kredibel, baca dulu sebuah informasi/berita sampai habis baru dibagikan, jangan langsung percaya, lakukan cek fakta dengan sumber informasi lain."
+  
+  - id: "hoaxes-election-impact"
+    text: "Hoaks dalam Pemilu disengaja atau tidak disengaja — tujuannya untuk menjatuhkan/mengangkat kandidat tertentu atau gain economic profit"
+    status: confirmed
+    confidence: 0.9
+    evidence:
+      - source: "Media_Sosial_Hoaks.pdf"
+        section: "Hoaks dan Pemilu"
+        quote: "Penyelenggaraan Pemilu di berbagai negara termasuk Indonesia selalu diwarnai hoaks. Penyebaran bisa disengaja atau tidak, dengan tujuan menjatuhkan atau mengangkat kandidat tertentu, atau untuk keuntungan ekonomi."
+  
+  - id: "digital-literacy-quiz-available"
+    text: "Ada quiz literasi digital interaktif di s.id/kuisin untuk edukasi publik"
+    status: confirmed
+    confidence: 0.95
+    evidence:
+      - source: "Media_Sosial_Hoaks.pdf"
+        section: "Digital Literacy Quiz"
+        quote: "Link quiz: s.id/kuisin"
 ---
 
 # Literasi Digital di Era AI & Banjir Informasi
@@ -113,6 +131,24 @@ Di era modern, terjadi pergeseran fundamental dalam cara kita mengonsumsi inform
 1. **Informasi yang tersebar belum tentu benar**
 2. **Banyak pihak sengaja menyebarkan hoaks/kabar bohong** untuk kepentingan tertentu
 3. **Warga harus punya kemampuan literasi digital** untuk bedakan fakta dan hoaks
+
+---
+
+## 🗳️ Hoaks dalam Pemilu
+
+**Context:** Penyelenggaraan Pemilu di berbagai negara, termasuk Indonesia, selalu diwarnai hoaks.
+
+**Nature of Spread:**
+- Bisa **disengaja** (intentional campaign)
+- Bisa **tidak disengaja** (unintentional sharing)
+
+**Objectives:**
+1. **Political:** Menjatuhkan atau mengangkat kandidat tertentu
+2. **Economic:** Mendapatkan keuntungan ekonomi (clickbait, ad revenue)
+
+**Risk:** Hoaks Pemilu dapat mempengaruhi opini publik dan hasil election.
+
+**Source:** Presentasi "Media Sosial dan Hoaks" — Haris Firdaus & Ibu Guru Adelia Pramono
 
 ---
 
@@ -184,6 +220,18 @@ Sumber: bijakbersosmed.id
 | **Kolaborasi Cek Fakta** | https://cekfakta.com/ | Verifikasi fakta |
 | **Turn Back Hoax** | https://turnbackhoax.id/ | Database hoaks |
 | **Cek Sumber** | https://ceksumber.id/ | Verifikasi sumber |
+
+### WhatsApp Contacts
+
+| Tool | Contact | Purpose |
+|------|---------|---------|
+| **Kalimasada** | 0859-2160-0500 | Cek fakta via WhatsApp |
+
+### Educational Resources
+
+| Tool | URL | Purpose |
+|------|-----|---------|
+| **Quiz Literasi Digital** | https://s.id/kuisin | Interactive quiz untuk edukasi |
 
 ---
 

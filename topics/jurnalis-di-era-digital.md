@@ -165,3 +165,11 @@ Hal paling penting di awal, disusul yang kurang penting.
 ---
 
 > *"Di tengah banjir informasi, jurnalis tetap menjadi penjaga gerbang kebenaran."*
+
+---
+
+## Prinsip Jurnalis di Era Digital
+
+1. **Tetap bertugas sesuai prinsip jurnalistik dan Kode Etik Jurnalistik** — teknologi tidak mengubah esensi jurnalisme
+2. **Memahami teknologi digital dan memanfaatkannya untuk tugas jurnalistik** — adaptasi alat, bukan mengorbankan nilai
+3. **Memelihara sikap skeptis dan kritis** — di tengah banjir informasi, verifikasi adalah segalanya

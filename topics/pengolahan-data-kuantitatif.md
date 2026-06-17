@@ -152,6 +152,13 @@ Tingkat ketidakpastian dalam hasil survei akibat hanya mewawancarai sebagian kec
 
 ---
 
+## Menemukan Pola dalam Data
+
+Statistik dalam jurnalisme bukan terutama soal menghitung angka. **Statistik adalah cara menemukan pola yang layak menjadi cerita.**
+
+
+---
+
 ## Pivot Table — Mesin Pencari Cerita dalam Data
 
 Pivot table adalah fitur Excel untuk "memutar" sudut pandang data — data yang sama bisa dilihat dari berbagai sisi.

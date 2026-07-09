@@ -1,7 +1,9 @@
 # Pengolahan Data Kuantitatif
 
-**Sumber:** Materi presentasi — Ratna, Workshop Jurnalistik Data  
-**Tanggal di-wiki:** 17 Juni 2026
+**Sumber:** Materi presentasi — Ratna Sri Widyastuti (Program Wartawan Specialist 2026), Jakarta, 17 Juni 2026  
+**File sumber:** `04_Pengolahan_Data_Kuantitatif_Ratna_Sri_W---d72a4b8e-d40b-44f6-8551-1d8af2481ffb.pdf`  
+**Tanggal di-wiki:** 17 Juni 2026  
+**Update:** 9 Juli 2026 — tambah 5 pertanyaan konteks, framework Menemukan Pola (ranking/gap/tren/korelasi), & 5 jenis visualisasi data
 
 ---
 
@@ -96,6 +98,20 @@ Pertanyaan yang harus dijawab:
 
 ---
 
+## 5 Pertanyaan Sebelum Percaya Angka
+
+Setiap angka butuh konteks. Sebelum menulis, tanyakan:
+
+1. **Dibandingkan dengan apa?** — 100 kasus itu banyak atau sedikit? Harus dibandingkan dengan sesuatu supaya "bunyi".
+2. **Dibandingkan dengan kapan?** — 100 kasus tahun ini, tahun lalu berapa?
+3. **Dibandingkan dengan di mana?** — 100 kasus di Kota A, kota/daerah lain berapa? Seperti apa?
+4. **Dalam proporsi berapa?** — 100 kasus dari 1.000 orang vs 100 kasus dari 1 juta orang → artinya sangat berbeda.
+5. **Apakah masuk akal?** — Misalnya pengangguran turun dari 10% menjadi 0% → aneh, perlu dicek.
+
+> Angka tunggal jarang bercerita. Kekuatan angka ada pada perbandingannya.
+
+---
+
 ## 5 Statistik Dasar untuk Jurnalis
 
 ### 1. Mean (Rata-rata)
@@ -156,6 +172,21 @@ Tingkat ketidakpastian dalam hasil survei akibat hanya mewawancarai sebagian kec
 
 Statistik dalam jurnalisme bukan terutama soal menghitung angka. **Statistik adalah cara menemukan pola yang layak menjadi cerita.**
 
+Dari satu set data (misal: jumlah kasus DBD per provinsi), ajukan 4 pertanyaan pola:
+
+### 1. Ranking — Siapa tertinggi & terendah?
+Provinsi mana yang kasusnya paling tinggi, dan mana yang paling rendah?
+
+### 2. Gap — Seberapa besar perbedaannya?
+Contoh: kemiskinan di provinsi A lima kali lebih banyak dibanding provinsi B.
+
+### 3. Tren — Ada perubahan kecenderungan?
+Angka yang terus naik/turun dalam periode tertentu. Apakah ada perubahan tren yang berarti?
+
+### 4. Korelasi — Dua hal bergerak bersama?
+Korelasi muncul ketika dua fenomena terlihat meningkat/turun pada waktu yang sama. **Korelasi menunjukkan hubungan, tetapi belum tentu sebab-akibat.**
+
+> Statistik dalam jurnalisme bukan terutama soal menghitung angka. Statistik adalah cara menemukan pola yang layak menjadi cerita.
 
 ---
 
@@ -177,7 +208,20 @@ Rows = Provinsi, Values = Sum of Jumlah Kasus, Columns = Jenis Penyakit
 
 ## Visualisasi Data
 
-Bukan sekadar mempercantik — ada fungsi lainnya. Biasanya ada 5 kemungkinan visualisasi tergantung apa yang mau dijelaskan.
+Bukan sekadar mempercantik — ada fungsi lainnya. Biasanya ada 5 kemungkinan visualisasi tergantung apa yang mau dijelaskan:
+
+| Jenis | Untuk apa | Catatan |
+|---|---|---|
+| **Grafik Batang (Bar Chart)** | Ranking & perbandingan (termasuk antar kategori) | Paling aman untuk banyak kategori |
+| **Grafik Garis (Line Chart)** | Perubahan dari waktu ke waktu; juga untuk korelasi | Cocok memverifikasi asumsi tren |
+| **Grafik Pie** | Proporsi (total 100%) | Hanya untuk kategori sedikit (≤5). Lebih dari 5 kategori, pakai bar chart |
+| **Scatter Plot** | Hubungan dua variabel (mis. pendapatan vs pendidikan) | Sangat berguna untuk investigasi & analisis |
+| **Peta (di luar 5 di atas)** | Menampilkan data spasial/geografis | Jenis yang sering muncul di luar kategori di atas |
+
+**Fungsi visualisasi:**
+- **Menemukan cerita** — pola tak terlihat di tabel (mis. korban kecelakaan naik tajam setelah pandemi) bisa langsung kelihatan.
+- **Memverifikasi asumsi** — mis. "masyarakat makin banyak pakai transportasi umum", benarkah? Grafik tren bisa membuktikan atau membantah.
+- **Menjelaskan isu kompleks** — stunting, perubahan iklim, APBN, kriminalitas, penyakit menular.
 
 **Yang harus dihindari:**
 - Grafik yang menyesatkan (skala tidak konsisten, axis dipotong)
